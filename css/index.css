@@ -1,0 +1,151 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: 0;
+}
+.name {
+    width: 100%;
+    height: 250px;
+    background: #18206f;
+} 
+.name .content {
+    width: 50%;
+    position: absolute;
+    left: 45%;
+}
+.name .content .p-1 {
+    color: #fff8f0;
+    font-family: "Rubik", sans-serif;
+    font-size: 45px;
+    margin-bottom: 0;
+}
+.name .content .p-2 {
+    color: #fff8f0;
+    font-family: "Rubik", sans-serif;
+    font-size: 30px;
+    margin-top: 0;
+}
+.name .content .p-3 {
+    color: #fff8f0;
+    font-family: "Rubik", sans-serif;
+    font-size: 25px;
+}
+.name .foto {
+    position: absolute;
+    top: 1%;
+    left: 15%;
+    width: 230px;
+    height: 230px;
+    border-radius: 100%;
+    overflow: hidden;
+}
+.name .foto img {
+    width: 230px;
+    height: 230px;
+}
+.info {
+    width: 100%;
+    height: auto;
+    background: #18206f;
+    margin: 0.5% auto;
+    padding: 30px;
+}
+.info .tituloSeccion {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    border-bottom: 2px #fff8f0 solid;
+}
+.info .Dirección {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    display: inline;
+    margin-right: 20px;
+}
+.info .DirecciónDirección {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    display: inline;
+}
+.info .Movil {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    display: inline;
+    margin-right: 27px;
+}
+.info .MovilMovil {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    display: inline;
+}
+.info .email {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    display: inline;
+    margin-right: 62px;
+}
+.info .emailemail {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    display: inline;
+}
+.Experiencia{
+    width: 100%;
+    height: auto;
+    background: #18206f;
+    margin: 0.5% auto;
+    padding: 30px;
+}
+.Experiencia .experiencia{
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-size: xx-large;
+    text-align: center;
+    border-bottom: 2px #fff8f0 solid;
+}
+.Experiencia .empresa {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    display: inline;
+    margin-right: 20px;
+}
+.Experiencia .tiempo {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    display: inline;
+}
+.Experiencia .cargo {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    display: inline;
+    margin-right: 115px;
+}
+.Experiencia .cargo1 {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    display: inline;
+}
+.Experiencia .función {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    font-weight: bolder;
+    font-size: 22px;
+    display: inline;
+    margin-right: 93px;
+}
+.Experiencia .función1 {
+    color: #fff8f0;
+    font-family: Arial, sans-serif;
+    display: inline;
+}
